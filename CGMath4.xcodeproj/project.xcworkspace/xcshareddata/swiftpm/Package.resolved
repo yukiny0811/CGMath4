@@ -1,0 +1,69 @@
+{
+  "originHash" : "ee455686422651ac6229357319d926bfe1764c28edf330d63fbb3ddd2642fed7",
+  "pins" : [
+    {
+      "identity" : "easymetalshader",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yukiny0811/EasyMetalShader.git",
+      "state" : {
+        "revision" : "a6f0e8142cecadaa28fb0accbc679c53b78eb8c2",
+        "version" : "3.2.1"
+      }
+    },
+    {
+      "identity" : "fontvertexbuilder",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yukiny0811/FontVertexBuilder",
+      "state" : {
+        "revision" : "2798d9d32937ad22c1e776320a0ddd3db19fde13",
+        "version" : "1.2.5"
+      }
+    },
+    {
+      "identity" : "simplesimdswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yukiny0811/SimpleSimdSwift",
+      "state" : {
+        "revision" : "4a0b195450e42f8a46b0a77f183b1ff116696697",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "svgpath",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yukiny0811/SVGPath",
+      "state" : {
+        "revision" : "e738fb6400d4e4d14e82c41c9d30c3908285eae9",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "swift-syntax",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-syntax.git",
+      "state" : {
+        "revision" : "2bc86522d115234d1f588efe2bcb4ce4be8f8b82",
+        "version" : "510.0.3"
+      }
+    },
+    {
+      "identity" : "swifty-creatives",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yukiny0811/swifty-creatives",
+      "state" : {
+        "revision" : "0604a1673d88c8111a2f571e99b4d3e5797f1974",
+        "version" : "2.3.2"
+      }
+    },
+    {
+      "identity" : "swiftycoretext",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/yukiny0811/SwiftyCoreText",
+      "state" : {
+        "revision" : "ed0583f3ecc5c4e4d3ec56c8a9752d6e9a1e9b86",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
